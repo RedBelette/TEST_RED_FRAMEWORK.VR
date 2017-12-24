@@ -1,0 +1,1 @@
+[helicoGroup, [4158.51,2939.9,0]] call RF_fnc_landingHelico;

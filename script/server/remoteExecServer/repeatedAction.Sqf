@@ -1,0 +1,1 @@
+["[[4400,2417,75],[4393,4191,75]] call BIS_fnc_ambientFlyBy;", 10] call RF_fnc_repeatedAction;

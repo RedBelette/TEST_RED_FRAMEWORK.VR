@@ -1,0 +1,1 @@
+[west, ["B_Soldier_F", "B_Soldier_F", "B_Soldier_F"], [4265,2925,0]] call RF_fnc_spawnUnits;
